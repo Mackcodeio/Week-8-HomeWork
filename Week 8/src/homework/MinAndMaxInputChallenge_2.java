@@ -2,6 +2,14 @@ package homework;
 
 import java.util.Scanner;
 
+/*
+ 2. -Read the numbers from the console entered by the user and print the minimum
+    and maximum number the user has entered.
+
+    -Before the user entersthe number, print the message Enter number:
+    -If the user enters an invalid number, break out of the loop and print the minimum and maximum
+    number.
+ */
 public class MinAndMaxInputChallenge_2 {
 
     public static void main(String[] args) {

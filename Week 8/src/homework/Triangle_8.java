@@ -1,5 +1,13 @@
 package homework;
 
+/*
+    8. Display right angle triangle of @ using nested for loops
+        @
+        @@
+        @@@
+        @@@@
+        @@@@@
+* */
 public class Triangle_8 {
     public static void main(String[] args) {
         for(int i=1;i<=5;i++){

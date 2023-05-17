@@ -2,6 +2,7 @@ package homework;
 
 import java.util.Scanner;
 
+// 9. Print the sequence 1 1 2 3 5 8 13 21 (Fibonacci number
 public class Fibonacci_9 {
 
     static int n1=0,n2=1,n3=0;
